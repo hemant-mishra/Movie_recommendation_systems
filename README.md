@@ -1,0 +1,1 @@
+End to end project on Movie Recommender Systems for suggesting top 10 trending movie and implemented filtering by using surprise library and item-based collaborative filtering for recommending movie and deployed model using Flask.
